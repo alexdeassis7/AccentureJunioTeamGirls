@@ -1,0 +1,33 @@
+herramientas 
+
+1) node js + npm (node package manager) : para servir nuestra app
+https://nodejs.org/es/
+cmd para chequear si instalo bien : node -v  ,   npm -v
+
+
+2)typescript
+npm install -g typescript
+para chequear version : tsc -version
+
+3)angular CLi
+para instalar npm install -g @angular/cli
+para chequear version : ng -version
+
+
+
+herramientas para compilar y ejecutar API REST back ENd
+
+1) JDK 
+http://download.oracle.com/otn-pub/java/jdk-nb/8u111-8.2/jdk-8u111-nb-8_2-windows-x64.exe
+
+
+2) MAVEN
+https://maven.apache.org/download.cgi   => apache-maven-3.8.1-bin.zip
+
+
+Configurar variables de entorno 
+
+JAVA_HOME 
+
+M2_HOME    => para chequear la version : mvn -v
+
